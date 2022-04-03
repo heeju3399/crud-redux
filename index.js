@@ -1,6 +1,6 @@
 
 function source() {
-    location.href = "./source.html";
+    location.href = "https://github.com/heeju3399/crud-redux.git";
 }
 
 function subject() {
